@@ -1,0 +1,31 @@
+Please don't change the default tileset properties.
+
+Switches:
+0101 - 0200 = Travis
+0201 - 0300 = Greg
+0301 - 0400 = Tony
+
+Variables:
+0101 - 0200 = Travis
+0201 - 0300 = Greg
+0301 - 0400 = Tony
+
+Enemies:
+0101 - 0200 = Travis
+0201 - 0300 = Greg
+0301 - 0400 = Tony
+
+Actors:
+0101 - 0200 = Travis
+0201 - 0300 = Greg
+0301 - 0400 = Tony
+
+Skills:
+0101 - 0200 = Travis
+0201 - 0300 = Greg
+0301 - 0400 = Tony
+
+Tilesets:
+0101 - 0200 = Travis
+0201 - 0300 = Greg
+0301 - 0400 = Tony
