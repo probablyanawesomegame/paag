@@ -1,3 +1,3 @@
 # Probably An Awesome Game
 
-Test
+See the setup wiki page for how to use.
